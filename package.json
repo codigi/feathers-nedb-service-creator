@@ -1,0 +1,28 @@
+{
+  "name": "feathers-nedb-service-creator",
+  "version": "0.0.1",
+  "description": "feather nedb service creator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigi/feathers-nedb-service-creator.git"
+  },
+  "keywords": [
+    "feathersjs",
+    "nedb"
+  ],
+  "author": "Atanas Palavrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codigi/feathers-nedb-service-creator/issues"
+  },
+  "homepage": "https://github.com/codigi/feathers-nedb-service-creator#readme",
+  "dependencies": {
+    "app-root-path": "^1.0.0",
+    "feathers-nedb": "^2.2.2",
+    "nedb": "^1.8.0"
+  }
+}
