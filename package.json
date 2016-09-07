@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/codigi/feathers-nedb-service-creator#readme",
   "dependencies": {
-    "app-root-path": "^1.0.0",
     "feathers-nedb": "^2.2.2",
     "nedb": "^1.8.0"
   }
