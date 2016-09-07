@@ -1,6 +1,6 @@
 {
   "name": "feathers-nedb-service-creator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "feather nedb service creator.",
   "main": "index.js",
   "scripts": {
